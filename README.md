@@ -35,6 +35,21 @@ DESCRIPTION
 
 This class provides two methods to execute an external command, capture its output and exit code, and, in `capture-check()`, raise an error on unexpected exit code values.
 
+FIELDS
+======
+
+  * exitcode
+
+        Int:D $.exitcode
+
+    The exit code of the executed external command.
+
+  * lines
+
+        Str:D @.lines
+
+    The output of the external command split into lines with the newline terminator removed.
+
 METHODS
 =======
 
