@@ -67,6 +67,25 @@ This class provides two methods to execute an external command, capture
 its output and exit code, and, in C<capture-check()>, raise an error on
 unexpected exit code values.
 
+=head1 FIELDS
+
+=begin item1
+exitcode
+
+    Int:D $.exitcode
+
+The exit code of the executed external command.
+=end item1
+
+=begin item1
+lines
+
+    Str:D @.lines
+
+The output of the external command split into lines with the newline
+terminator removed.
+=end item1
+
 =head1 METHODS
 
 =begin item1
