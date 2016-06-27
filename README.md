@@ -57,7 +57,7 @@ METHODS
 
         method capture(*@cmd)
 
-    Execute the specified command in the same way as `run()` would, then create a new `Shell::Capture` object with its `exitcode` and `lines` members set respectively to the exit code of the command and its output split into lines (without the terminating newline character).
+    Execute the specified command in the same way as `run()` would, then create a new `Shell::Capture` object with its `exitcode` and `lines` members set respectively to the exit code of the command and its output split into lines, as described above.
 
   * method capture-check()
 
