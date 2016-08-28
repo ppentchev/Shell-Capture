@@ -1,4 +1,4 @@
-unit class Shell::Capture:ver<0.2.0.dev1>:auth<github:ppentchev>;
+unit class Shell::Capture:ver<0.2.0>:auth<github:ppentchev>;
 
 use v6.c;
 
