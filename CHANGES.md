@@ -1,8 +1,8 @@
 Change log for the Shell-Capture Perl 6 module
 ==============================================
 
-0.2.1.dev1 (not yet)
---------------------
+0.2.1
+-----
 
 - Test against the four most recent Rakudo Perl 6 releases on Travis CI.
 - Merge Samantha McVey's pull request #1 to specify
