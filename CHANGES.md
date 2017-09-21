@@ -4,6 +4,8 @@ Change log for the Shell-Capture Perl 6 module
 0.2.1.dev1 (not yet)
 --------------------
 
+- Test against the four most recent Rakudo Perl 6 releases on Travis CI.
+
 0.2.0
 -----
 
