@@ -5,6 +5,8 @@ Change log for the Shell-Capture Perl 6 module
 --------------------
 
 - Test against the four most recent Rakudo Perl 6 releases on Travis CI.
+- Merge Samantha McVey's pull request #1 to specify
+  the Artistic-2.0 license in META6.json.
 
 0.2.0
 -----
