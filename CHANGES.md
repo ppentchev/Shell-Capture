@@ -1,6 +1,11 @@
 Change log for the Shell-Capture Perl 6 module
 ==============================================
 
+0.2.3
+=====
+
+- Bump the version so that it is actually indexed.
+
 0.2.2
 =====
 
