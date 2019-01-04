@@ -1,6 +1,13 @@
 Change log for the Shell-Capture Perl 6 module
 ==============================================
 
+0.2.2
+=====
+
+- Move the "use v6.c" statement to the first line of the file.
+  Thanks to Aleks-Daniel Jakimenko-Aleksejev <alex.jakimenko@gmail.com>
+- Test with recent versions of Perl 6.
+
 0.2.1
 -----
 
