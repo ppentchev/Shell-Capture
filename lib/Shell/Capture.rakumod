@@ -1,6 +1,6 @@
 use v6.c;
 
-unit class Shell::Capture:ver<0.2.4>:auth<github:ppentchev>;
+unit class Shell::Capture:ver<0.2.4>:auth<github:ppentchev>:api<0>;
 
 has Int $.exitcode;
 has Str @.lines;
