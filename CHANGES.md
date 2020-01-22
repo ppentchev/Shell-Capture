@@ -5,6 +5,10 @@ Change log for the Shell-Capture Raku module
 =====
 
 - Rename the files with Raku extensions.
+- Add the Test::META modulea as a test dependency.
+- Add a test to validate the format of the META6.json file.
+- Add some more META6.json fields.
+- Declare the API version in the module definition.
 
 0.2.3
 =====
