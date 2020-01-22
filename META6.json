@@ -2,11 +2,11 @@
   "perl": "6.c",
   "name": "Shell::Capture",
   "license" : "Artistic-2.0",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Capture a command's output and exit code",
   "authors": [ "Peter Pentchev" ],
   "provides": {
-    "Shell::Capture": "lib/Shell/Capture.pm6"
+    "Shell::Capture": "lib/Shell/Capture.rakumod"
   },
   "depends": [],
   "resources": [],

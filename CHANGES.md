@@ -1,5 +1,10 @@
-Change log for the Shell-Capture Perl 6 module
+Change log for the Shell-Capture Raku module
 ==============================================
+
+0.2.4
+=====
+
+- Rename the files with Raku extensions.
 
 0.2.3
 =====

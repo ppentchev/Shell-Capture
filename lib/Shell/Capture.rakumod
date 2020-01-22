@@ -1,6 +1,6 @@
 use v6.c;
 
-unit class Shell::Capture:ver<0.2.3>:auth<github:ppentchev>;
+unit class Shell::Capture:ver<0.2.4>:auth<github:ppentchev>;
 
 has Int $.exitcode;
 has Str @.lines;
@@ -139,7 +139,7 @@ Peter Pentchev <L<roam@ringlet.net|mailto:roam@ringlet.net>>
 
 =head1 COPYRIGHT
 
-Copyright (C) 2016, 2017  Peter Pentchev
+Copyright (C) 2016, 2017, 2020  Peter Pentchev
 
 =head1 LICENSE
 
