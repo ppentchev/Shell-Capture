@@ -2,6 +2,8 @@
   "perl": "6.c",
   "name": "Shell::Capture",
   "license" : "Artistic-2.0",
+  "api": "0",
+  "auth": "github:ppentchev",
   "version": "0.2.4",
   "description": "Capture a command's output and exit code",
   "authors": [ "Peter Pentchev" ],
@@ -9,6 +11,15 @@
     "Shell::Capture": "lib/Shell/Capture.rakumod"
   },
   "depends": [],
+  "test-depends": [
+    "Test::META"
+  ],
   "resources": [],
-  "source-url": "https://github.com/ppentchev/Shell-Capture.git"
+  "source-url": "https://github.com/ppentchev/Shell-Capture.git",
+  "support": {
+    "email": "roam@ringlet.net",
+    "bugtracker": "https://github.com/ppentchev/Shell-Capture/issues",
+    "source": "https://github.com/ppentchev/Shell-Capture.git"
+  },
+  "production": true
 }
